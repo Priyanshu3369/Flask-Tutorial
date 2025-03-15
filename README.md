@@ -45,9 +45,11 @@ Then, open your browser and visit: [http://localhost:5000](http://localhost:5000
 
 ## 📖 Tutorials Included
 
-| #  | Topic          | Description |
-|----|--------------|-------------|
-| 01 | Hello World  | Basic Flask app setup |
+| #  | Topic              | Description |
+|----|-------------------|-------------|
+| 01 | Hello World       | Basic Flask setup |
+| 02 | Routing, POST, Error Handling, Templates | Dynamic routes, handling requests, managing errors, rendering HTML |
+
 
 ## 🛠 Prerequisites
 To follow along with these tutorials, you need:
