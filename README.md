@@ -14,6 +14,10 @@ This repository serves as a **comprehensive guide** to Flask, covering fundament
 │── firstDay/
 │   ├── app.py
 │   ├── readme.md
+│── secondDay/
+│   ├── app.py
+│   ├── readme.md
+
 ```
 
 Each folder contains **self-contained examples** demonstrating different Flask functionalities. The corresponding `readme.md` files inside each tutorial provide additional explanations.
