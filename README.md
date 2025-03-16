@@ -17,6 +17,13 @@ This repository serves as a **comprehensive guide** to Flask, covering fundament
 │── secondDay/
 │   ├── app.py
 │   ├── readme.md
+│── thirdDay/
+│   ├── app.py
+│   ├── readme.md
+│   ├── templates/
+│   │   ├── base.html
+│   │   ├── index.html
+│   │   ├── other.html
 
 ```
 
@@ -49,7 +56,7 @@ Then, open your browser and visit: [http://localhost:5000](http://localhost:5000
 |----|-------------------|-------------|
 | 01 | Hello World       | Basic Flask setup |
 | 02 | Routing, POST, Error Handling, Templates | Dynamic routes, handling requests, managing errors, rendering HTML |
-
+| 03 | Advanced Flask Features | Middleware, request handling, Flask extensions |
 
 ## 🛠 Prerequisites
 To follow along with these tutorials, you need:
