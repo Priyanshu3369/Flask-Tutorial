@@ -4,23 +4,19 @@ A simple Flask-based web application using HTML templates, Bootstrap, and static
 
 ---
 
-## 📂 Project Structure  
+# 📂 Project Structure  
 
-/project-root
-│
-├── app.py # 💻 Main Flask application
-│
-├── templates/ # 📁 HTML Templates
-│ ├── base.html # 🎨 Base template with Bootstrap & CSS
-│ ├── index.html # 🏠 Main page extending base.html
-│
-├── static/ # 📁 Contains assets (not uploaded)
-│ ├── css/ # 🎨 Bootstrap & Custom Styles
-│ ├── js/ # ⚙️ Bootstrap JS & Scripts
-│ ├── img/ # 🖼️ Images folder (Contains 'download.jpeg')
-
----
-
+```bash
+/project-root  
+│── app.py               # 💻 Main Flask application  
+│── templates/           # 📁 HTML Templates  
+│   │── base.html        # 🎨 Base template with Bootstrap & CSS  
+│   └── index.html       # 🏠 Main page extending base.html  
+│── static/              # 📁 Contains assets (not uploaded)  
+│   │── css/             # 🎨 Bootstrap & Custom Styles  
+│   │── js/              # ⚙️ Bootstrap JS & Scripts  
+│   └── img/             # 🖼️ Images folder (Contains 'download.jpeg')  
+```
 ## ⚙️ How It Works  
 1. **Flask Application (`app.py`)**  
    - Initializes a simple Flask server.  
